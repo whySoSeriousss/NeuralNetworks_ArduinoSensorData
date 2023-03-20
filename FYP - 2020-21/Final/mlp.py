@@ -155,27 +155,3 @@ print(test_predict)
 
 accuracy_score(y1, test_predict)
 print("New testing Model Accuracy: " + str(accuracy_score(y1, test_predict))) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
